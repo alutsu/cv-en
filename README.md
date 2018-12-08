@@ -28,8 +28,9 @@ Working on IT since 2010, mainly working focused on backend services with NodeJS
 ## Formation
 | Course | Institution | Grade | Status |
 |--------|-------------|-------|--------|
+|Software Development for Mobile Devices|Faculdade Católica do Tocantins|Postgraduate|Completed - 2018|
 |Computer Science|IEPO – Instituto de Ensino e Pesquisa Objetivo|Higher Education|Completed - 2012|
-|Software Development for Mobile Devices|Faculdade Católica do Tocantins|Postgraduate|Completed - 2017|
+
 
 ## Conhecimentos
 
