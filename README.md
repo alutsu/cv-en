@@ -7,18 +7,18 @@ jovictor.miguel@gmail.com
 
 +55 (63) 98459-3068
 
-**Formation:** Computer Science - Post Graduate: Software Development for Mobile Devices
+**Graduation:** Bacharelor Degree: Computer Science - Post Graduate: Software Development for Mobile Devices
 
-I'm a husband, developer, hobbyist game dev, I like to watch some old comedy movies, play some video games and chill out on my vacation days.
+I'm a husband, developer, hobbyist game dev. I like to watch some old comedy movies, play some video games and chill out on my vacation days.
 
-Working on IT since 2010, mainly working focused on backend services with NodeJS, Python/Django and other languages.
+Working on IT since 2010, mostly with focused on backend services with NodeJS, Python/Django and other languages.
 
 ## Professional background
 
 * Hemocentro Coordenador: March 2014 - present
 
 > Working with development of web systems using Python with Django and other web apps with Ionic and backend servers with NodeJS.  Currently leading a little dev team.
-> ### Internal projects I worked with
+> ### Projects I worked on
 > | Projects | Tech | Stack | Status |
 > | -------- | ---- | ------ | ----- |
 > | Hemoto Mobile | Ionic, Nodejs | Full | Developing |
@@ -28,7 +28,7 @@ Working on IT since 2010, mainly working focused on backend services with NodeJS
 
 *  Conselho Regional de Engenharia e Agronomia: June 2013 to March 2014
 > Developer, worked with PHP; support attendant.
-> ### Internal projects I worked with
+> ### Projects I worked on
 > | Projects | Tech | Stack | Status |
 > | -------- | ---- | ------ | ----- |
 > | Ombudsman System | PHP/MySQL | Full | Done |
@@ -37,16 +37,16 @@ Working on IT since 2010, mainly working focused on backend services with NodeJS
 *  Conselho Regional de Engenharia e Agronomia: 08/2011 to 06/2013
 > Trainee
 > Developer and support attendant.
-> ### Internal projects I worked with
+> ### Projects I worked on
 > | Projects | Tech | Stack | Status |
 > | -------- | ---- | ------ | ----- |
-> | Equipment manage system | PHP/MySQL | Full | Done |
+> | Equipment management system | PHP/MySQL | Full | Done |
 
-## Formation
-| Course | Institution | Grade | Status |
+## Graduation
+| Course | Institution | Degree | Status |
 |--------|-------------|-------|--------|
 |Software Development for Mobile Devices|Faculdade Católica do Tocantins|Postgraduate|Completed - 2018|
-|Computer Science|IEPO – Instituto de Ensino e Pesquisa Objetivo|Higher Education|Completed - 2012|
+|Computer Science|IEPO – Instituto de Ensino e Pesquisa Objetivo|Bacharelor|Completed - 2012|
 
 
 ## Proficiency
@@ -60,7 +60,5 @@ Working on IT since 2010, mainly working focused on backend services with NodeJS
 * Automated Tests
 
 ## Language
-* Portuguese
-  * level: Native
-* English
-  * level: Intermediate
+* Portuguese: Native
+* English: Intermediate
