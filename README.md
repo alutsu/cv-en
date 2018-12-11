@@ -1,18 +1,15 @@
-# CV - João Victor Lopes Pimenta Miguel
+# João Victor Lopes Pimenta Miguel
+## Full Stack Developer
 
-Age: 26
+Palmas/TO, Brazil
 
-e-mail: jovictor.miguel@gmail.com
+jovictor.miguel@gmail.com
 
-Formation: Computer Science - Post Graduate: Software Development for Mobile Devices
++55 (63) 98459-3068
 
-County: Brazil
+**Formation:** Computer Science - Post Graduate: Software Development for Mobile Devices
 
-State: Tocantins
-
-City: Palmas
-
-I'm a husband, developer, game dev just for fun, I like to watch some old comedy movies, play some video games and chill out on my vacation days.
+I'm a husband, developer, hobbyist game dev, I like to watch some old comedy movies, play some video games and chill out on my vacation days.
 
 Working on IT since 2010, mainly working focused on backend services with NodeJS, Python/Django and other languages.
 
@@ -52,8 +49,7 @@ Working on IT since 2010, mainly working focused on backend services with NodeJS
 |Computer Science|IEPO – Instituto de Ensino e Pesquisa Objetivo|Higher Education|Completed - 2012|
 
 
-## Knowledge
-
+## Proficiency
 * Node JS
 * Angular
 * Ionic
