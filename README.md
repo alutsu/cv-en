@@ -15,7 +15,13 @@ Working on IT since 2010, mostly with focused on backend services with NodeJS, P
 
 ## Professional background
 
-* Hemocentro Coordenador: March 2014 - present
+* Agência de Tecnologia da Informação do Estado do Tocantins: April: 2019 - present
+> Developer: working as a fullstack developer with Ruby on Rails
+
+* Murcul: December 2018 - March 2019
+> Developer, worked as a back-end developer with Nodejs
+
+* Hemocentro Coordenador: March 2014 - April 2019
 
 > Working with development of web systems using Python with Django and other web apps with Ionic and backend servers with NodeJS.  Currently leading a little dev team.
 > ### Projects I worked on
@@ -54,6 +60,7 @@ Working on IT since 2010, mostly with focused on backend services with NodeJS, P
 * Angular
 * Ionic
 * React
+* Ruby on Rails
 * Databes (SQL Server, MySQL, PostgreSQL e MongoDB)
 * Cloud(Firebase, GetUpCloud)
 * EcmaScript 6
